@@ -1,0 +1,21 @@
+# Build folders
+build/
+install/
+log/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled objects
+*.o
+*.so
+*.a
+
+# VSCode
+.vscode/
+
+# Linux temp
+*.swp
